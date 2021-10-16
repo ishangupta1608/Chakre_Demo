@@ -1,5 +1,5 @@
 import { ChakraProvider, Flex,  Box, Button, Image, Spacer, Stack, Text, HStack,Center, IconButton, Link, Icon } from "@chakra-ui/react"
-import React from 'react'
+
 import { SearchIcon, ArrowForwardIcon, ViewIcon,InfoIcon, EmailIcon } from '@chakra-ui/icons'
 function App() {
   return (
